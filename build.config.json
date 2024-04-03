@@ -1,0 +1,3 @@
+{
+  "bundle": [ "dist/content.js", "dist/background.js"]
+}
